@@ -1,0 +1,7 @@
+__pycache__
+/node_modules
+/conf
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+xfs-config.json

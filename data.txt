@@ -1,0 +1,4 @@
+Hello, how are you?	Bonjour, comment ça va ?
+I am doing well.	Je vais bien.
+What is your name?	Comment vous appelez-vous ?
+My name is John.	Je m'appelle John.
